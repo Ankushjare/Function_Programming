@@ -1,0 +1,14 @@
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Project4\Harmonic_Number_Print\Harmonic_Value\Harmonic_Value\bin\Debug\netcoreapp3.1\Harmonic_Value.exe
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Project4\Harmonic_Number_Print\Harmonic_Value\Harmonic_Value\bin\Debug\netcoreapp3.1\Harmonic_Value.deps.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Project4\Harmonic_Number_Print\Harmonic_Value\Harmonic_Value\bin\Debug\netcoreapp3.1\Harmonic_Value.runtimeconfig.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Project4\Harmonic_Number_Print\Harmonic_Value\Harmonic_Value\bin\Debug\netcoreapp3.1\Harmonic_Value.runtimeconfig.dev.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Project4\Harmonic_Number_Print\Harmonic_Value\Harmonic_Value\bin\Debug\netcoreapp3.1\Harmonic_Value.dll
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Project4\Harmonic_Number_Print\Harmonic_Value\Harmonic_Value\bin\Debug\netcoreapp3.1\Harmonic_Value.pdb
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Project4\Harmonic_Number_Print\Harmonic_Value\Harmonic_Value\obj\Debug\netcoreapp3.1\Harmonic_Value.csproj.AssemblyReference.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Project4\Harmonic_Number_Print\Harmonic_Value\Harmonic_Value\obj\Debug\netcoreapp3.1\Harmonic_Value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Project4\Harmonic_Number_Print\Harmonic_Value\Harmonic_Value\obj\Debug\netcoreapp3.1\Harmonic_Value.AssemblyInfoInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Project4\Harmonic_Number_Print\Harmonic_Value\Harmonic_Value\obj\Debug\netcoreapp3.1\Harmonic_Value.AssemblyInfo.cs
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Project4\Harmonic_Number_Print\Harmonic_Value\Harmonic_Value\obj\Debug\netcoreapp3.1\Harmonic_Value.csproj.CoreCompileInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Project4\Harmonic_Number_Print\Harmonic_Value\Harmonic_Value\obj\Debug\netcoreapp3.1\Harmonic_Value.dll
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Project4\Harmonic_Number_Print\Harmonic_Value\Harmonic_Value\obj\Debug\netcoreapp3.1\Harmonic_Value.pdb
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Project4\Harmonic_Number_Print\Harmonic_Value\Harmonic_Value\obj\Debug\netcoreapp3.1\Harmonic_Value.genruntimeconfig.cache

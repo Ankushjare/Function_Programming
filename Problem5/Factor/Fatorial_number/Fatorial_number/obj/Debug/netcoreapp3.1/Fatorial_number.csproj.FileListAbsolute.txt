@@ -1,0 +1,14 @@
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem5\Factor\Fatorial_number\Fatorial_number\bin\Debug\netcoreapp3.1\Fatorial_number.exe
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem5\Factor\Fatorial_number\Fatorial_number\bin\Debug\netcoreapp3.1\Fatorial_number.deps.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem5\Factor\Fatorial_number\Fatorial_number\bin\Debug\netcoreapp3.1\Fatorial_number.runtimeconfig.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem5\Factor\Fatorial_number\Fatorial_number\bin\Debug\netcoreapp3.1\Fatorial_number.runtimeconfig.dev.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem5\Factor\Fatorial_number\Fatorial_number\bin\Debug\netcoreapp3.1\Fatorial_number.dll
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem5\Factor\Fatorial_number\Fatorial_number\bin\Debug\netcoreapp3.1\Fatorial_number.pdb
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem5\Factor\Fatorial_number\Fatorial_number\obj\Debug\netcoreapp3.1\Fatorial_number.csproj.AssemblyReference.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem5\Factor\Fatorial_number\Fatorial_number\obj\Debug\netcoreapp3.1\Fatorial_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem5\Factor\Fatorial_number\Fatorial_number\obj\Debug\netcoreapp3.1\Fatorial_number.AssemblyInfoInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem5\Factor\Fatorial_number\Fatorial_number\obj\Debug\netcoreapp3.1\Fatorial_number.AssemblyInfo.cs
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem5\Factor\Fatorial_number\Fatorial_number\obj\Debug\netcoreapp3.1\Fatorial_number.csproj.CoreCompileInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem5\Factor\Fatorial_number\Fatorial_number\obj\Debug\netcoreapp3.1\Fatorial_number.dll
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem5\Factor\Fatorial_number\Fatorial_number\obj\Debug\netcoreapp3.1\Fatorial_number.pdb
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem5\Factor\Fatorial_number\Fatorial_number\obj\Debug\netcoreapp3.1\Fatorial_number.genruntimeconfig.cache

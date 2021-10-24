@@ -1,0 +1,14 @@
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Program8\Even_Odd\Even_Odd\Even_Odd\bin\Debug\netcoreapp3.1\Even_Odd.exe
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Program8\Even_Odd\Even_Odd\Even_Odd\bin\Debug\netcoreapp3.1\Even_Odd.deps.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Program8\Even_Odd\Even_Odd\Even_Odd\bin\Debug\netcoreapp3.1\Even_Odd.runtimeconfig.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Program8\Even_Odd\Even_Odd\Even_Odd\bin\Debug\netcoreapp3.1\Even_Odd.runtimeconfig.dev.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Program8\Even_Odd\Even_Odd\Even_Odd\bin\Debug\netcoreapp3.1\Even_Odd.dll
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Program8\Even_Odd\Even_Odd\Even_Odd\bin\Debug\netcoreapp3.1\Even_Odd.pdb
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Program8\Even_Odd\Even_Odd\Even_Odd\obj\Debug\netcoreapp3.1\Even_Odd.csproj.AssemblyReference.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Program8\Even_Odd\Even_Odd\Even_Odd\obj\Debug\netcoreapp3.1\Even_Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Program8\Even_Odd\Even_Odd\Even_Odd\obj\Debug\netcoreapp3.1\Even_Odd.AssemblyInfoInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Program8\Even_Odd\Even_Odd\Even_Odd\obj\Debug\netcoreapp3.1\Even_Odd.AssemblyInfo.cs
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Program8\Even_Odd\Even_Odd\Even_Odd\obj\Debug\netcoreapp3.1\Even_Odd.csproj.CoreCompileInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Program8\Even_Odd\Even_Odd\Even_Odd\obj\Debug\netcoreapp3.1\Even_Odd.dll
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Program8\Even_Odd\Even_Odd\Even_Odd\obj\Debug\netcoreapp3.1\Even_Odd.pdb
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Program8\Even_Odd\Even_Odd\Even_Odd\obj\Debug\netcoreapp3.1\Even_Odd.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem9\Vowel_consonant\Vowel_or_Consonant\Vowel_or_Consonant\bin\Debug\netcoreapp3.1\Vowel_or_Consonant.exe
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem9\Vowel_consonant\Vowel_or_Consonant\Vowel_or_Consonant\bin\Debug\netcoreapp3.1\Vowel_or_Consonant.deps.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem9\Vowel_consonant\Vowel_or_Consonant\Vowel_or_Consonant\bin\Debug\netcoreapp3.1\Vowel_or_Consonant.runtimeconfig.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem9\Vowel_consonant\Vowel_or_Consonant\Vowel_or_Consonant\bin\Debug\netcoreapp3.1\Vowel_or_Consonant.runtimeconfig.dev.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem9\Vowel_consonant\Vowel_or_Consonant\Vowel_or_Consonant\bin\Debug\netcoreapp3.1\Vowel_or_Consonant.dll
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem9\Vowel_consonant\Vowel_or_Consonant\Vowel_or_Consonant\bin\Debug\netcoreapp3.1\Vowel_or_Consonant.pdb
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem9\Vowel_consonant\Vowel_or_Consonant\Vowel_or_Consonant\obj\Debug\netcoreapp3.1\Vowel_or_Consonant.csproj.AssemblyReference.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem9\Vowel_consonant\Vowel_or_Consonant\Vowel_or_Consonant\obj\Debug\netcoreapp3.1\Vowel_or_Consonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem9\Vowel_consonant\Vowel_or_Consonant\Vowel_or_Consonant\obj\Debug\netcoreapp3.1\Vowel_or_Consonant.AssemblyInfoInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem9\Vowel_consonant\Vowel_or_Consonant\Vowel_or_Consonant\obj\Debug\netcoreapp3.1\Vowel_or_Consonant.AssemblyInfo.cs
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem9\Vowel_consonant\Vowel_or_Consonant\Vowel_or_Consonant\obj\Debug\netcoreapp3.1\Vowel_or_Consonant.csproj.CoreCompileInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem9\Vowel_consonant\Vowel_or_Consonant\Vowel_or_Consonant\obj\Debug\netcoreapp3.1\Vowel_or_Consonant.dll
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem9\Vowel_consonant\Vowel_or_Consonant\Vowel_or_Consonant\obj\Debug\netcoreapp3.1\Vowel_or_Consonant.pdb
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem9\Vowel_consonant\Vowel_or_Consonant\Vowel_or_Consonant\obj\Debug\netcoreapp3.1\Vowel_or_Consonant.genruntimeconfig.cache

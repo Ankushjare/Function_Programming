@@ -1,0 +1,13 @@
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem3\Power_of_2\Power_of_2\Power_of_2\bin\Debug\netcoreapp3.1\Power_of_2.exe
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem3\Power_of_2\Power_of_2\Power_of_2\bin\Debug\netcoreapp3.1\Power_of_2.deps.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem3\Power_of_2\Power_of_2\Power_of_2\bin\Debug\netcoreapp3.1\Power_of_2.runtimeconfig.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem3\Power_of_2\Power_of_2\Power_of_2\bin\Debug\netcoreapp3.1\Power_of_2.runtimeconfig.dev.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem3\Power_of_2\Power_of_2\Power_of_2\bin\Debug\netcoreapp3.1\Power_of_2.dll
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem3\Power_of_2\Power_of_2\Power_of_2\bin\Debug\netcoreapp3.1\Power_of_2.pdb
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem3\Power_of_2\Power_of_2\Power_of_2\obj\Debug\netcoreapp3.1\Power_of_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem3\Power_of_2\Power_of_2\Power_of_2\obj\Debug\netcoreapp3.1\Power_of_2.AssemblyInfoInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem3\Power_of_2\Power_of_2\Power_of_2\obj\Debug\netcoreapp3.1\Power_of_2.AssemblyInfo.cs
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem3\Power_of_2\Power_of_2\Power_of_2\obj\Debug\netcoreapp3.1\Power_of_2.csproj.CoreCompileInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem3\Power_of_2\Power_of_2\Power_of_2\obj\Debug\netcoreapp3.1\Power_of_2.dll
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem3\Power_of_2\Power_of_2\Power_of_2\obj\Debug\netcoreapp3.1\Power_of_2.pdb
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem3\Power_of_2\Power_of_2\Power_of_2\obj\Debug\netcoreapp3.1\Power_of_2.genruntimeconfig.cache
