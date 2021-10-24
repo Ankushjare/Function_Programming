@@ -1,0 +1,14 @@
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem2\Leap_Year_Check\Leap_Year_Check\bin\Debug\netcoreapp3.1\Leap_Year_Check.exe
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem2\Leap_Year_Check\Leap_Year_Check\bin\Debug\netcoreapp3.1\Leap_Year_Check.deps.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem2\Leap_Year_Check\Leap_Year_Check\bin\Debug\netcoreapp3.1\Leap_Year_Check.runtimeconfig.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem2\Leap_Year_Check\Leap_Year_Check\bin\Debug\netcoreapp3.1\Leap_Year_Check.runtimeconfig.dev.json
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem2\Leap_Year_Check\Leap_Year_Check\bin\Debug\netcoreapp3.1\Leap_Year_Check.dll
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem2\Leap_Year_Check\Leap_Year_Check\bin\Debug\netcoreapp3.1\Leap_Year_Check.pdb
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem2\Leap_Year_Check\Leap_Year_Check\obj\Debug\netcoreapp3.1\Leap_Year_Check.csproj.AssemblyReference.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem2\Leap_Year_Check\Leap_Year_Check\obj\Debug\netcoreapp3.1\Leap_Year_Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem2\Leap_Year_Check\Leap_Year_Check\obj\Debug\netcoreapp3.1\Leap_Year_Check.AssemblyInfoInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem2\Leap_Year_Check\Leap_Year_Check\obj\Debug\netcoreapp3.1\Leap_Year_Check.AssemblyInfo.cs
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem2\Leap_Year_Check\Leap_Year_Check\obj\Debug\netcoreapp3.1\Leap_Year_Check.csproj.CoreCompileInputs.cache
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem2\Leap_Year_Check\Leap_Year_Check\obj\Debug\netcoreapp3.1\Leap_Year_Check.dll
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem2\Leap_Year_Check\Leap_Year_Check\obj\Debug\netcoreapp3.1\Leap_Year_Check.pdb
+C:\Users\Ankush\Desktop\Assignment\Functional_Programming\Problem2\Leap_Year_Check\Leap_Year_Check\obj\Debug\netcoreapp3.1\Leap_Year_Check.genruntimeconfig.cache
